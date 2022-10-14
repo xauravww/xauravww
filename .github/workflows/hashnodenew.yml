@@ -1,0 +1,5 @@
+      - name: Get recent blog posts from hashnode
+        id: hashnode-recent-blog-posts
+        uses: imbhargav5/hashnode-user-with-posts-json@master
+        with:
+          username: "xauravww"
