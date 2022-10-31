@@ -20,14 +20,6 @@ Skills:  JS / HTML / CSS
 <!-- BLOG-POST-LIST:END -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xauravww)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](xauravww)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/itsmesaurav/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xauravww)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xauravww)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xauravww&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xauravww)  
-
-![GitHub metrics](https://metrics.lecoq.io/xauravww)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xauravww)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xauravww)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=xauravww&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/xauravww)  
