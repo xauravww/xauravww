@@ -16,6 +16,7 @@ Skills:  JS / HTML / CSS
 ## <a href="https://xauravww.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [Some* Basic/Simple CSS Selectors](https://xauravww.hashnode.dev/some-basicsimple-css-selectors)
 - [Hoisting](https://xauravww.hashnode.dev/hoisting)
 - [Functions in JavaScript](https://xauravww.hashnode.dev/functions-in-javascript)
 <!-- BLOG-POST-LIST:END -->
