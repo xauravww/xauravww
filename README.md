@@ -16,6 +16,7 @@ Skills:  JS / HTML / CSS
 ## <a href="https://xauravww.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [Do you really know how exactly inheritance works in CSS ?](https://xauravww.hashnode.dev/do-you-really-know-how-exactly-inheritance-works-in-css)
 - [Scoping in JavaScript](https://xauravww.hashnode.dev/scoping-in-javascript)
 - [Some* Basic/Simple CSS Selectors](https://xauravww.hashnode.dev/some-basicsimple-css-selectors)
 - [Hoisting](https://xauravww.hashnode.dev/hoisting)
