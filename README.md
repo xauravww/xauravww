@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Saurav Maheshwari
 #### Learning and Building In Public
-![Learning and Building In Public](https://i.ibb.co/ypyM1fB/sbanner.png)
+![Learning and Building In Public](/resources/newbanner.png)
 
 I am a CSE undergrad , improving my developement and DSA skills with a vision of Learning and Building in public. 
 
