@@ -4,11 +4,11 @@
 
 I am a CSE undergrad , improving my developement and DSA skills with a vision of Learning and Building in public. 
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS / Kotlin / Android
 
-- 🌱 I’m currently learning CSS , JS and DSA with C++ 
+- 🌱 I’m currently learning CSS , JS , Kotlin , Android  and DSA with C++ 
 - 👯 I’m looking to collaborate on Frontend Projects 
-- 💬 Ask me about Frontend and DSA 
+- 💬 Ask me about Android and DSA 
 - 📫 How to reach me: sauravmaheshwari8@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I was a citizen of procrasti**NATION** 😂😂 
