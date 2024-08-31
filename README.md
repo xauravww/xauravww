@@ -16,11 +16,11 @@ Skills:  JS / HTML / CSS / Kotlin / Android
 ## <a href="https://xauravww.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
-- [How to Use Merge Sort Algorithm Explained](https://xauravww.hashnode.dev/how-to-use-merge-sort-algorithm-explained)
 - [Understanding and Improving an Insertion Sort Function](https://xauravww.hashnode.dev/understanding-and-improving-an-insertion-sort-function)
 - [Node.js Semantic Versioning: Everything You Need to Know](https://xauravww.hashnode.dev/nodejs-semantic-versioning-everything-you-need-to-know)
 - [Remove Duplicates in Sorted Array- Easy Leetcode Solution using TypeScript](https://xauravww.hashnode.dev/remove-duplicates-in-sorted-array-easy-leetcode-solution-using-typescript)
 - [Remove Elements - Easy  Leetcode Solution using TypeScript](https://xauravww.hashnode.dev/remove-elements-easy-leetcode-solution-using-typescript)
+- [DOM &lpar;Document Object Model&rpar;](https://xauravww.hashnode.dev/dom-document-object-model)
 <!-- BLOG-POST-LIST:END -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xauravww)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](xauravww)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/itsmesaurav/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xauravww)  
 
