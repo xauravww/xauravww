@@ -3,7 +3,7 @@
 ![Learning and Building In Public](https://res.cloudinary.com/drvntsbpo/image/upload/v1725357418/banner-linkedin_af8onz.png)
 
 <div align="center">
-      <img width=200 style="border-radius:50%" src="https://avatars.githubusercontent.com/xauravww"/>
+<!--       <img width=200 style="border-radius:50%" src="https://avatars.githubusercontent.com/xauravww"/> -->
     </div>
     <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=xauravww&icon=5&color=6"/>
