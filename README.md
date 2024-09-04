@@ -22,11 +22,11 @@ Improving my developement and DSA skills with a vision of Learning and Building 
 ## <a href="https://xauravww.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
-- [Mastering Quicksort: Step-by-Step Breakdown](https://xauravww.hashnode.dev/mastering-quicksort-step-by-step-breakdown)
 - [Merging K - Sorted Linked Lists](https://xauravww.hashnode.dev/merging-k-sorted-linked-lists)
 - [How to Use Merge Sort Algorithm Explained](https://xauravww.hashnode.dev/how-to-use-merge-sort-algorithm-explained)
 - [Understanding and Improving an Insertion Sort Function](https://xauravww.hashnode.dev/understanding-and-improving-an-insertion-sort-function)
 - [Node.js Semantic Versioning: Everything You Need to Know](https://xauravww.hashnode.dev/nodejs-semantic-versioning-everything-you-need-to-know)
+- [Remove Duplicates in Sorted Array- Easy Leetcode Solution using TypeScript](https://xauravww.hashnode.dev/remove-duplicates-in-sorted-array-easy-leetcode-solution-using-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack💻 
