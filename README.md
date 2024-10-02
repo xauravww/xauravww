@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Saurav Maheshwari
 #### Learning and Building In Public
-![Learning and Building In Public](https://res.cloudinary.com/drvntsbpo/image/upload/v1725357418/banner-linkedin_af8onz.png)
+### ![Learning and Building In Public](https://res.cloudinary.com/drvntsbpo/image/upload/v1725357418/banner-linkedin_af8onz.png)
 
 <div align="center">
 <!--       <img width=200 style="border-radius:50%" src="https://avatars.githubusercontent.com/xauravww"/> -->
@@ -28,6 +28,10 @@ Improving my developement and DSA skills with a vision of Learning and Building 
 - [Binary Search Guide: Comparing Recursive and Iterative Methods](https://xauravww.hashnode.dev/binary-search-guide-comparing-recursive-and-iterative-methods)
 - [Step-by-Step Guide to Counting Sort: Solving the Sort Colors Problem](https://xauravww.hashnode.dev/step-by-step-guide-to-counting-sort-solving-the-sort-colors-problem)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+[![xauravww's GitHub | Languages Over Time](https://stats.quira.sh/xauravww/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=xauravww)
 
 ## Tech Stack💻 
 
@@ -60,6 +64,8 @@ Improving my developement and DSA skills with a vision of Learning and Building 
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
+
 ## GitHub Trophies🏆
 
 ![](https://github-profile-trophy.vercel.app/?username=xauravww&theme=transparent&no-frame=true&no-bg=true)
@@ -68,9 +74,11 @@ Improving my developement and DSA skills with a vision of Learning and Building 
 ## Top Contributed Repo🔝
 
 ![](https://github-contributor-stats.vercel.app/api?username=xauravww&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
     
 
 ##  GitHub Stats📊
+
     
 ![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=xauravww)
     
