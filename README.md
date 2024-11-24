@@ -22,11 +22,11 @@ Improving my developement and DSA skills with a vision of Learning and Building 
 ## <a href="https://xauravww.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [Understanding the Key Differences Between HTML and JSX](https://xauravww.hashnode.dev/understanding-the-key-differences-between-html-and-jsx)
 - [Efficiently Locate the First Bad Version of a Product with Binary Search](https://xauravww.hashnode.dev/efficiently-locate-the-first-bad-version-of-a-product-with-binary-search)
 - [How Binary Search Makes Number Guessing Easy](https://xauravww.hashnode.dev/how-binary-search-makes-number-guessing-easy)
 - [Efficient Binary Search Methods for 2D Matrices](https://xauravww.hashnode.dev/efficient-binary-search-methods-for-2d-matrices)
 - [Binary Search Guide: Comparing Recursive and Iterative Methods](https://xauravww.hashnode.dev/binary-search-guide-comparing-recursive-and-iterative-methods)
-- [Step-by-Step Guide to Counting Sort: Solving the Sort Colors Problem](https://xauravww.hashnode.dev/step-by-step-guide-to-counting-sort-solving-the-sort-colors-problem)
 <!-- BLOG-POST-LIST:END -->
 
 
